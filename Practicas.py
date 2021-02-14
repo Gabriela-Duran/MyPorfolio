@@ -1,2 +1,2 @@
-numero=(int(84))
+numero=(int(10))
 print(numero)
